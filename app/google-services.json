@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362106706977",
+    "project_id": "mymessegger",
+    "storage_bucket": "mymessegger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362106706977:android:c0ef25deb1ad16659f1760",
+        "android_client_info": {
+          "package_name": "com.example.mymessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr1x1xGAIenHntcmv5crzqbrM60Xev_Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
